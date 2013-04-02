@@ -5,14 +5,9 @@ TARGET_KERNEL_SOURCE := kernel/semc/msm7x30
 TARGET_KERNEL_CONFIG := cyanogen_smultron_defconfig
 TARGET_KERNEL_CUSTOM_TOOLCHAIN := arm-eabi-4.7-linaro
 
+#Recovery
 TARGET_RECOVERY_INITRC := device/semc/smultron/recovery/init.rc
 
-#TWRP
-DEVICE_RESOLUTION := 320x480
-RECOVERY_GRAPHICS_USE_LINELENGTH := true
-TARGET_RECOVERY_PIXEL_FORMAT := "RGB_565"
-TW_HAS_NO_RECOVERY_PARTITION := true
-TW_FLASH_FROM_STORAGE := true
 
 #Sensors
 SOMC_CFG_SENSORS := true
