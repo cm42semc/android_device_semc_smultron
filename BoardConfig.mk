@@ -2,7 +2,7 @@
 -include vendor/semc/smultron/BoardConfigVendor.mk
 
 TARGET_KERNEL_SOURCE := kernel/semc/msm7x30
-TARGET_KERNEL_CONFIG := cyanogen_smultron_defconfig
+TARGET_KERNEL_CONFIG := nAa_smultron_defconfig
 TARGET_KERNEL_CUSTOM_TOOLCHAIN := arm-eabi-4.7-linaro
 
 #Recovery
