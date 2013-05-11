@@ -4,7 +4,7 @@
 # Kernel
 TARGET_KERNEL_SOURCE := kernel/semc/msm7x30
 TARGET_KERNEL_CONFIG := nAa_smultron_defconfig
-TARGET_KERNEL_CUSTOM_TOOLCHAIN := arm-eabi-4.7-linaro
+TARGET_KERNEL_CUSTOM_TOOLCHAIN := arm-eabi-4.6
 
 # Recovery
 TARGET_RECOVERY_INITRC := device/semc/smultron/recovery/init.rc
