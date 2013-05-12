@@ -58,12 +58,11 @@ usr/semc/camera/STW05BN0_IMX072.dat
 
 # Firmware
 etc/firmware/bq27520_fw-0507_filever-0046_proj-mang_golden.bqfs
-etc/firmware/fm_rx_init_1273.1.bts
-etc/firmware/fm_rx_init_1273.2.bts
-etc/firmware/fm_tx_init_1273.1.bts
-etc/firmware/fm_tx_init_1273.2.bts
-etc/firmware/fmc_init_1273.1.bts
 etc/firmware/fmc_init_1273.2.bts
+etc/firmware/fm_rx_init_1273.2.bts
+etc/firmware/fm_tx_ch8_1273.1.bts
+etc/firmware/fm_tx_ch8_1273.2.bts
+etc/firmware/fm_tx_init_1273.2.bts 
 etc/firmware/TIInit_7.5.20.bts
 etc/firmware/TIInit_7.6.15.bts
 etc/firmware/vidc_720p_command_control.fw
