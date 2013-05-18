@@ -103,13 +103,3 @@ lib/libmiscta.so
 
 # Touchscreen firmware
 etc/firmware/touch_smultron_sony.hex
-
-# ANT+
-app/antstatenotifer.apk
-app/AntHalService.apk
-app/antradioservice.apk
-etc/permissions/com.dsi.ant.antradio_library.xml
-etc/permissions/com.sonyericsson.suquashi.xml
-framework/com.dsi.ant.antradio_library.jar
-framework/com.sonyericsson.suquashi.jar
-lib/libanthal.so
