@@ -57,6 +57,8 @@ usr/semc/camera/STW05BN0_BH6476.dat
 usr/semc/camera/STW05BN0_IMX072.dat
 
 # Firmware
+etc/firmware/ti-connectivity/wl127x-fw-5-mr.bin
+etc/firmware/ti-connectivity/wl127x-fw-5-sr.bin
 etc/firmware/bq27520_fw-0507_filever-0046_proj-mang_golden.bqfs
 etc/firmware/fm_rx_init_1273.1.bts
 etc/firmware/fm_rx_init_1273.2.bts
